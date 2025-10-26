@@ -898,5 +898,14 @@
     "hindi_meaning": "किसी गलत बात को जानते हुए भी उस पर ध्यान न देना।",
     "marathi_phrase": "कानाडोळा करणे",
     "marathi_meaning": "एखाद्या गोष्टीकडे (विशेषतः चुकीच्या) दुर्लक्ष करणे."
+  },
+  {
+    "id": 101,
+    "english_phrase": "To kick the bucket",
+    "english_meaning": "To die.",
+    "hindi_phrase": "स्वर्ग सिधारना",
+    "hindi_meaning": "मर जाना।",
+    "marathi_phrase": "स्वर्गवासी होणे",
+    "marathi_meaning": "मरण पावणे."
   }
 ]
