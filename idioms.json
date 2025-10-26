@@ -1807,5 +1807,23 @@
     "hindi_meaning": "किसी पुरानी बात को लेकर नाराज़ या असंतुष्ट रहना।",
     "marathi_phrase": "मनात राग ठेवणे",
     "marathi_meaning": "भूतकाळातील एखाद्या गोष्टीबद्दल रागावलेले किंवा असमाधानी असणे."
+  },
+  {
+    "id": 201,
+    "english_phrase": "When it rains, it pours",
+    "english_meaning": "When one bad thing happens, a lot of other bad things happen soon after.",
+    "hindi_phrase": "गरीबी में आटा गीला",
+    "hindi_meaning": "मुसीबत में और मुसीबत आना।",
+    "marathi_phrase": "दुष्काळात तेरावा महिना",
+    "marathi_meaning": "आधीच असलेल्या संकटात आणखी भर पडणे."
+  },
+  {
+    "id": 202,
+    "english_phrase": "Familiarity breeds contempt",
+    "english_meaning": "Things that are easily available or too familiar are often undervalued.",
+    "hindi_phrase": "घर की मुर्गी दाल बराबर",
+    "hindi_meaning": "आसानी से मिली चीज़ का कोई मूल्य नहीं समझना।",
+    "marathi_phrase": "घरची कोंबडी डाळ बरोबर",
+    "marathi_meaning": "सहज उपलब्ध असलेल्या गोष्टीची किंमत न वाटणे."
   }
 ]
