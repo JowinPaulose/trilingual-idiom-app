@@ -907,5 +907,905 @@
     "hindi_meaning": "मर जाना।",
     "marathi_phrase": "स्वर्गवासी होणे",
     "marathi_meaning": "मरण पावणे."
+  },
+  {
+    "id": 101,
+    "english_phrase": "By the skin of one's teeth",
+    "english_meaning": "To barely manage to do something.",
+    "hindi_phrase": "बाल-बाल बचना",
+    "hindi_meaning": "बहुत थोड़े अंतर से बच निकलना।",
+    "marathi_phrase": "थोडक्यात वाचणे",
+    "marathi_meaning": "अगदी थोड्या फरकाने संकटातून वाचणे."
+  },
+  {
+    "id": 102,
+    "english_phrase": "A hot potato",
+    "english_meaning": "A controversial issue or situation that is awkward to deal with.",
+    "hindi_phrase": "ज्वलंत मुद्दा",
+    "hindi_meaning": "एक विवादास्पद मुद्दा जिससे निपटना मुश्किल हो।",
+    "marathi_phrase": "वादग्रस्त विषय",
+    "marathi_meaning": "असा विषय ज्यावर चर्चा करणे अवघड असते."
+  },
+  {
+    "id": 103,
+    "english_phrase": "Every cloud has a silver lining",
+    "english_meaning": "Every difficult or sad situation has a comforting or more hopeful aspect.",
+    "hindi_phrase": "निराशा में आशा की किरण",
+    "hindi_meaning": "हर बुरी परिस्थिति में भी कुछ अच्छा होता है।",
+    "marathi_phrase": "वाईटातून काहीतरी चांगले घडते",
+    "marathi_meaning": "प्रत्येक कठीण प्रसंगात काहीतरी आशेचा किरण असतो."
+  },
+  {
+    "id": 104,
+    "english_phrase": "To cost a bomb",
+    "english_meaning": "To be extremely expensive.",
+    "hindi_phrase": "बहुत महँगा होना",
+    "hindi_meaning": "किसी चीज़ का बहुत कीमती होना।",
+    "marathi_phrase": "खूप महाग असणे",
+    "marathi_meaning": "अतिशय महाग असणे."
+  },
+  {
+    "id": 105,
+    "english_phrase": "The ball is in your court",
+    "english_meaning": "It is your turn to make a decision or take the next step.",
+    "hindi_phrase": "अब आपकी बारी है",
+    "hindi_meaning": "अगला कदम उठाने या निर्णय लेने की बारी आपकी है।",
+    "marathi_phrase": "आता निर्णय तुमच्या हातात आहे",
+    "marathi_meaning": "पुढील निर्णय घेण्याची पाळी तुमची आहे."
+  },
+  {
+    "id": 106,
+    "english_phrase": "Barking up the wrong tree",
+    "english_meaning": "To be pursuing a mistaken line of thought or course of action.",
+    "hindi_phrase": "गलतफहमी में होना",
+    "hindi_meaning": "गलत दिशा में प्रयास करना या गलत व्यक्ति पर आरोप लगाना।",
+    "marathi_phrase": "चुकीच्या दिशेने प्रयत्न करणे",
+    "marathi_meaning": "चुकीचा मार्ग अवलंबणे किंवा चुकीच्या व्यक्तीला दोष देणे."
+  },
+  {
+    "id": 107,
+    "english_phrase": "Best of both worlds",
+    "english_meaning": "A situation where one can enjoy the advantages of two different things.",
+    "hindi_phrase": "दोनों हाथों में लड्डू होना",
+    "hindi_meaning": "दो अलग-अलग चीजों का एक साथ लाभ उठाना।",
+    "marathi_phrase": "दोन्ही बाजूने फायदा",
+    "marathi_meaning": "दोन भिन्न परिस्थितींचा फायदा एकाच वेळी मिळवणे."
+  },
+  {
+    "id": 108,
+    "english_phrase": "To feel under the weather",
+    "english_meaning": "To feel slightly ill.",
+    "hindi_phrase": "तबियत ठीक न लगना",
+    "hindi_meaning": "थोड़ा बीमार महसूस करना।",
+    "marathi_phrase": "आजारी वाटणे",
+    "marathi_meaning": "तब्येत बरी नसणे."
+  },
+  {
+    "id": 109,
+    "english_phrase": "Head over heels",
+    "english_meaning": "To be deeply in love.",
+    "hindi_phrase": "प्यार में पागल होना",
+    "hindi_meaning": "किसी के प्यार में पूरी तरह डूब जाना।",
+    "marathi_phrase": "प्रेमात आकंठ बुडणे",
+    "marathi_meaning": "कोणाच्यातरी प्रेमात पूर्णपणे बुडालेले असणे."
+  },
+  {
+    "id": 110,
+    "english_phrase": "To hear it on the grapevine",
+    "english_meaning": "To hear rumors about someone or something.",
+    "hindi_phrase": "उड़ती-उड़ती खबर सुनना",
+    "hindi_meaning": "किसी बात की अफवाह सुनना।",
+    "marathi_phrase": "कानावर येणे",
+    "marathi_meaning": "एखादी गोष्ट अफवा म्हणून ऐकण्यात येणे."
+  },
+  {
+    "id": 111,
+    "english_phrase": "In the heat of the moment",
+    "english_meaning": "To say or do something suddenly out of anger or excitement, without thinking.",
+    "hindi_phrase": "जोश में आकर",
+    "hindi_meaning": "क्रोध या उत्तेजना में बिना सोचे-समझे कुछ कह देना या कर देना।",
+    "marathi_phrase": "रागाच्या भरात",
+    "marathi_meaning": "रागाच्या किंवा উত্তेजनाच्या भरात अविचारीपणे वागणे."
+  },
+  {
+    "id": 112,
+    "english_phrase": "It takes two to tango",
+    "english_meaning": "Both people involved in a difficult situation are responsible for it.",
+    "hindi_phrase": "एक हाथ से ताली नहीं बजती",
+    "hindi_meaning": "किसी झगड़े या स्थिति के लिए दोनों पक्ष जिम्मेदार होते हैं।",
+    "marathi_phrase": "एका हाताने टाळी वाजत नाही",
+    "marathi_meaning": "भांडणासाठी दोन्ही बाजू जबाबदार असतात."
+  },
+  {
+    "id": 113,
+    "english_phrase": "Jump on the bandwagon",
+    "english_meaning": "To join a popular activity or trend.",
+    "hindi_phrase": "लोकप्रिय चीज़ का हिस्सा बनना",
+    "hindi_meaning": "किसी लोकप्रिय प्रवृत्ति या गतिविधि में शामिल होना।",
+    "marathi_phrase": "वाहत्या गंगेत सामील होणे",
+    "marathi_meaning": "लोकप्रिय प्रवाहाचा भाग होणे."
+  },
+  {
+    "id": 114,
+    "english_phrase": "To let the cat out of the bag",
+    "english_meaning": "To reveal a secret carelessly.",
+    "hindi_phrase": "राज खोल देना",
+    "hindi_meaning": "अनजाने में कोई रहस्य उजागर कर देना।",
+    "marathi_phrase": "गुपित उघड करणे",
+    "marathi_meaning": "चुकून एखादे रहस्य उघड करणे."
+  },
+  {
+    "id": 115,
+    "english_phrase": "Miss the boat",
+    "english_meaning": "To miss an opportunity.",
+    "hindi_phrase": "मौका गँवा देना",
+    "hindi_meaning": "कोई अवसर खो देना।",
+    "marathi_phrase": "संधी गमावणे",
+    "marathi_meaning": "मिळालेली संधी गमावणे."
+  },
+  {
+    "id": 116,
+    "english_phrase": "Off one's rocker",
+    "english_meaning": "To be crazy or mad.",
+    "hindi_phrase": "दिमाग फिरा होना",
+    "hindi_meaning": "पागल होना, दिमाग सठिया जाना।",
+    "marathi_phrase": "डोके फिरणे",
+    "marathi_meaning": "वेडे होणे, डोके ठिकाणावर नसणे."
+  },
+  {
+    "id": 117,
+    "english_phrase": "Old habits die hard",
+    "english_meaning": "It is difficult to stop doing things one has been doing for a long time.",
+    "hindi_phrase": "पुरानी आदतें मुश्किल से जाती हैं",
+    "hindi_meaning": "लंबे समय से चली आ रही आदतों को छोड़ना मुश्किल होता है।",
+    "marathi_phrase": "जुनी सवय लवकर सुटत नाही",
+    "marathi_meaning": "जुन्या सवयी बदलणे खूप कठीण असते."
+  },
+  {
+    "id": 118,
+    "english_phrase": "On the same page",
+    "english_meaning": "To be in agreement or thinking in the same way.",
+    "hindi_phrase": "एकमत होना",
+    "hindi_meaning": "किसी बात पर सहमत होना।",
+    "marathi_phrase": "एकमत असणे",
+    "marathi_meaning": "एखाद्या विषयावर समान विचार असणे."
+  },
+  {
+    "id": 119,
+    "english_phrase": "Out of the blue",
+    "english_meaning": "Suddenly and unexpectedly.",
+    "hindi_phrase": "अचानक से",
+    "hindi_meaning": "एकदम अप्रत्याशित रूप से।",
+    "marathi_phrase": "अचानक",
+    "marathi_meaning": "अनपेक्षितपणे."
+  },
+  {
+    "id": 120,
+    "english_phrase": "Rags to riches",
+    "english_meaning": "The state of going from being very poor to being very wealthy.",
+    "hindi_phrase": "रंक से राजा बनना",
+    "hindi_meaning": "बहुत गरीब से बहुत अमीर बन जाना।",
+    "marathi_phrase": "रंकाचा राव होणे",
+    "marathi_meaning": "अतिशय गरिबीतून श्रीमंत होणे."
+  },
+  {
+    "id": 121,
+    "english_phrase": "That's the last straw",
+    "english_meaning": "The final problem in a series of problems that makes a situation unbearable.",
+    "hindi_phrase": "सहनशक्ति की अंतिम सीमा",
+    "hindi_meaning": "समस्याओं की श्रृंखला में अंतिम समस्या, जो स्थिति को असहनीय बना देती है।",
+    "marathi_phrase": "सहनशीलतेचा अंत",
+    "marathi_meaning": "एखादी शेवटची गोष्ट ज्यामुळे परिस्थिती असहाय्य होते."
+  },
+  {
+    "id": 122,
+    "english_phrase": "The elephant in the room",
+    "english_meaning": "An obvious major problem or issue that people are avoiding discussing.",
+    "hindi_phrase": "एक बड़ी समस्या जिसे सब अनदेखा कर रहे हैं",
+    "hindi_meaning": "एक बड़ी और स्पष्ट समस्या जिस पर लोग बात करने से कतराते हैं।",
+    "marathi_phrase": "स्पष्ट पण दुर्लक्षित समस्या",
+    "marathi_meaning": "एक मोठी समस्या जी सर्वांना माहित आहे पण कोणीही त्यावर बोलत नाही."
+  },
+  {
+    "id": 123,
+    "english_phrase": "There are other fish in the sea",
+    "english_meaning": "There are many other suitable people or opportunities available.",
+    "hindi_phrase": "दुनिया में और भी हैं",
+    "hindi_meaning": "किसी एक अवसर या व्यक्ति के खोने पर निराश न होना, क्योंकि और भी विकल्प मौजूद हैं।",
+    "marathi_phrase": "जगात अनेक संधी आहेत",
+    "marathi_meaning": "एखादी संधी गमावल्यास निराश होऊ नये, जगात अनेक संधी उपलब्ध असतात."
+  },
+  {
+    "id": 124,
+    "english_phrase": "To throw caution to the wind",
+    "english_meaning": "To do something without worrying about the risk or negative consequences.",
+    "hindi_phrase": "परिणाम की चिंता किए बिना काम करना",
+    "hindi_meaning": "जोखिम या बुरे परिणामों की परवाह किए बिना कुछ करना।",
+    "marathi_phrase": "परिणामांची पर्वा न करणे",
+    "marathi_meaning": "धोक्याची किंवा परिणामांची पर्वा न करता एखादे काम करणे."
+  },
+  {
+    "id": 125,
+    "english_phrase": "Time flies",
+    "english_meaning": "Time passes very quickly.",
+    "hindi_phrase": "समय पंख लगाकर उड़ जाता है",
+    "hindi_meaning": "समय बहुत तेजी से बीतता है।",
+    "marathi_phrase": "वेळ पटकन निघून जातो",
+    "marathi_meaning": "वेळ खूप लवकर निघून जातो."
+  },
+  {
+    "id": 126,
+    "english_phrase": "Under one's thumb",
+    "english_meaning": "To be under someone's control.",
+    "hindi_phrase": "किसी के वश में होना",
+    "hindi_meaning": "किसी के पूर्ण नियंत्रण में होना।",
+    "marathi_phrase": "मुठीत असणे",
+    "marathi_meaning": "एखाद्याच्या पूर्ण नियंत्रणाखाली असणे."
+  },
+  {
+    "id": 127,
+    "english_phrase": "Water under the bridge",
+    "english_meaning": "Past events that are no longer important or worth worrying about.",
+    "hindi_phrase": "पुरानी बात हो जाना",
+    "hindi_meaning": "ऐसी बीती बातें जो अब महत्वपूर्ण नहीं हैं।",
+    "marathi_phrase": "गेलेल्या गोष्टी",
+    "marathi_meaning": "घडून गेलेल्या गोष्टी ज्या आता महत्त्वाच्या नाहीत."
+  },
+  {
+    "id": 128,
+    "english_phrase": "Wear your heart on your sleeve",
+    "english_meaning": "To make your feelings and emotions obvious to others.",
+    "hindi_phrase": "अपनी भावनाओं को खुलकर व्यक्त करना",
+    "hindi_meaning": "अपनी भावनाओं को स्पष्ट रूप से दिखाना।",
+    "marathi_phrase": "भावना उघडपणे व्यक्त करणे",
+    "marathi_meaning": "आपल्या भावना इतरांना सहज दिसू देणे."
+  },
+  {
+    "id": 129,
+    "english_phrase": "Wrap your head around something",
+    "english_meaning": "To succeed in understanding something complicated.",
+    "hindi_phrase": "किसी चीज़ को समझना",
+    "hindi_meaning": "किसी जटिल चीज़ को समझने में सफल होना।",
+    "marathi_phrase": "एखादी गोष्ट समजून घेणे",
+    "marathi_meaning": "एखादी क्लिष्ट गोष्ट समजून घेण्यात यशस्वी होणे."
+  },
+  {
+    "id": 130,
+    "english_phrase": "You can't have your cake and eat it too",
+    "english_meaning": "You can't have two conflicting things at the same time.",
+    "hindi_phrase": "दोनों चीजें एक साथ नहीं मिल सकतीं",
+    "hindi_meaning": "आप एक ही समय में दो परस्पर विरोधी चीजों का आनंद नहीं ले सकते।",
+    "marathi_phrase": "एकाच वेळी दोन गोष्टी मिळू शकत नाहीत",
+    "marathi_meaning": "दोन परस्परविरोधी गोष्टी एकाच वेळी मिळवणे अशक्य असते."
+  },
+  {
+    "id": 131,
+    "english_phrase": "Zip your lip",
+    "english_meaning": "To be quiet; to stop talking.",
+    "hindi_phrase": "अपना मुँह बंद रखो",
+    "hindi_meaning": "चुप हो जाओ; बोलना बंद करो।",
+    "marathi_phrase": "तोंड बंद ठेव",
+    "marathi_meaning": "शांत बसणे; बोलणे बंद करणे."
+  },
+  {
+    "id": 132,
+    "english_phrase": "A dime a dozen",
+    "english_meaning": "Very common and therefore not valuable.",
+    "hindi_phrase": "कौड़ियों के भाव",
+    "hindi_meaning": "बहुत आम और इसलिए बहुत सस्ता या मूल्यहीन।",
+    "marathi_phrase": "अतिशय सामान्य",
+    "marathi_meaning": "अगदी सहज उपलब्ध आणि त्यामुळे कमी मोलाचे."
+  },
+  {
+    "id": 133,
+    "english_phrase": "To be in the same boat",
+    "english_meaning": "To be in the same difficult situation as someone else.",
+    "hindi_phrase": "एक ही हाल में होना",
+    "hindi_meaning": "किसी और के समान ही कठिन परिस्थिति में होना।",
+    "marathi_phrase": "एकाच परिस्थितीत असणे",
+    "marathi_meaning": "इतरांप्रमाणेच कठीण परिस्थितीत असणे."
+  },
+  {
+    "id": 134,
+    "english_phrase": "A picture is worth a thousand words",
+    "english_meaning": "A visual image can convey a complex idea more effectively than words.",
+    "hindi_phrase": "एक तस्वीर हज़ार शब्दों के बराबर होती है",
+    "hindi_meaning": "शब्दों की तुलना में एक चित्र अधिक प्रभावशाली ढंग से विचार व्यक्त कर सकता है।",
+    "marathi_phrase": "एक चित्र हजार शब्दांच्या बरोबरीचे असते",
+    "marathi_meaning": "शब्दांपेक्षा चित्र अधिक प्रभावीपणे कल्पना व्यक्त करू शकते."
+  },
+  {
+    "id": 135,
+    "english_phrase": "Beauty is in the eye of the beholder",
+    "english_meaning": "Different people have different ideas about what is beautiful.",
+    "hindi_phrase": "सुंदरता देखने वाले की आँखों में होती है",
+    "hindi_meaning": "खूबसूरती का कोई एक पैमाना नहीं होता, यह देखने वाले पर निर्भर करता है।",
+    "marathi_phrase": "सौंदर्य पाहणाऱ्याच्या डोळ्यात असते",
+    "marathi_meaning": "प्रत्येकाची सौंदर्याची कल्पना वेगळी असते."
+  },
+  {
+    "id": 136,
+    "english_phrase": "Beggars can't be choosers",
+    "english_meaning": "People who depend on the generosity of others must accept what is offered.",
+    "hindi_phrase": "दान की बछिया के दाँत नहीं गिने जाते",
+    "hindi_meaning": "ज़रूरतमंद लोगों को जो मिल रहा है, उसे स्वीकार कर लेना चाहिए।",
+    "marathi_phrase": "दान मिळालेल्या वस्तूची चिकित्सा करू नये",
+    "marathi_meaning": "गरजूंनी जे मिळेल ते स्वीकारावे, त्यात निवड करू नये."
+  },
+  {
+    "id": 137,
+    "english_phrase": "Break a leg",
+    "english_meaning": "A way to wish someone good luck, especially before a performance.",
+    "hindi_phrase": "शुभकामनाएँ",
+    "hindi_meaning": "किसी को (विशेषकर मंच प्रदर्शन से पहले) शुभकामनाएँ देने का एक तरीका।",
+    "marathi_phrase": "शुभेच्छा",
+    "marathi_meaning": "एखाद्याला शुभेच्छा देणे (विशेषतः सादरीकरणापूर्वी)."
+  },
+  {
+    "id": 138,
+    "english_phrase": "Close but no cigar",
+    "english_meaning": "To be very near to achieving something but just failing.",
+    "hindi_phrase": "मंज़िल के करीब आकर चूक जाना",
+    "hindi_meaning": "सफलता के बहुत करीब आकर असफल हो जाना।",
+    "marathi_phrase": "यशाच्या अगदी जवळ येऊन अपयश येणे",
+    "marathi_meaning": "अगदी थोडक्यात यश हुकणे."
+  },
+  {
+    "id": 139,
+    "english_phrase": "Come rain or shine",
+    "english_meaning": "No matter what happens; whatever the weather.",
+    "hindi_phrase": "चाहे कुछ भी हो जाए",
+    "hindi_meaning": "चाहे जैसी भी परिस्थिति हो।",
+    "marathi_phrase": "काहीही झाले तरी",
+    "marathi_meaning": "कोणत्याही परिस्थितीत."
+  },
+  {
+    "id": 140,
+    "english_phrase": "Cut corners",
+    "english_meaning": "To do something in the easiest, cheapest, or fastest way, often sacrificing quality.",
+    "hindi_phrase": "कामचलाऊ काम करना",
+    "hindi_meaning": "गुणवत्ता की परवाह किए बिना, सबसे सस्ते या तेज़ तरीके से काम करना।",
+    "marathi_phrase": "कामचलाऊ पध्दतीने करणे",
+    "marathi_meaning": "दर्जा कमी करून, सोप्या किंवा स्वस्त मार्गाने काम करणे."
+  },
+  {
+    "id": 141,
+    "english_phrase": "Devil's advocate",
+    "english_meaning": "A person who expresses a contrary opinion in order to provoke debate.",
+    "hindi_phrase": "विपरीत मत रखने वाला",
+    "hindi_meaning": "वह व्यक्ति जो बहस के लिए जानबूझकर विपरीत राय व्यक्त करता है।",
+    "marathi_phrase": "विरोधी मत मांडणारी व्यक्ती",
+    "marathi_meaning": "चर्चेला चालना देण्यासाठी मुद्दामहून विरुद्ध मत मांडणारी व्यक्ती."
+  },
+  {
+    "id": 142,
+    "english_phrase": "Don't give up your day job",
+    "english_meaning": "A humorous way to say someone is not very good at something.",
+    "hindi_phrase": "यह आपके बस का नहीं है",
+    "hindi_meaning": "मज़ाक में यह कहना कि आप इस काम में अच्छे नहीं हैं।",
+    "marathi_phrase": "हे तुमचे काम नाही",
+    "marathi_meaning": "एखादी व्यक्ती एखाद्या कामात चांगली नाही हे विनोदाने सांगणे."
+  },
+  {
+    "id": 143,
+    "english_phrase": "Easy does it",
+    "english_meaning": "To do something slowly and carefully.",
+    "hindi_phrase": "आराम से करो",
+    "hindi_meaning": "धीरे-धीरे और सावधानी से काम करना।",
+    "marathi_phrase": "हळू आणि काळजीपूर्वक करा",
+    "marathi_meaning": "एखादे काम सावकाश आणि काळजीपूर्वक करणे."
+  },
+  {
+    "id": 144,
+    "english_phrase": "Fit as a fiddle",
+    "english_meaning": "To be in very good health.",
+    "hindi_phrase": "पूरी तरह से स्वस्थ",
+    "hindi_meaning": "एकदम तंदुरुस्त होना।",
+    "marathi_phrase": "उत्तम आरोग्य असणे",
+    "marathi_meaning": "अगदी निरोगी असणे."
+  },
+  {
+    "id": 145,
+    "english_phrase": "Fortune favors the bold",
+    "english_meaning": "People who are courageous and take risks are more likely to succeed.",
+    "hindi_phrase": "हिम्मत करने वालों का भाग्य साथ देता है",
+    "hindi_meaning": "साहसी लोगों को सफलता मिलने की संभावना अधिक होती है।",
+    "marathi_phrase": "शूर माणसाला नशीब साथ देते",
+    "marathi_meaning": "जोखीम पत्करणाऱ्या धाडसी लोकांना यश मिळते."
+  },
+  {
+    "id": 146,
+    "english_phrase": "Get out of hand",
+    "english_meaning": "To become difficult to control.",
+    "hindi_phrase": "हाथ से निकल जाना",
+    "hindi_meaning": "नियंत्रण से बाहर हो जाना।",
+    "marathi_phrase": "हाताबाहेर जाणे",
+    "marathi_meaning": "नियंत्रणाबाहेर जाणे."
+  },
+  {
+    "id": 147,
+    "english_phrase": "Go down in flames",
+    "english_meaning": "To fail spectacularly or dramatically.",
+    "hindi_phrase": "बुरी तरह असफल होना",
+    "hindi_meaning": "पूरी तरह से और नाटकीय रूप से विफल होना।",
+    "marathi_phrase": "पूर्णपणे अयशस्वी होणे",
+    "marathi_meaning": "अतिशय वाईट रीतीने अयशस्वी होणे."
+  },
+  {
+    "id": 148,
+    "english_phrase": "Hang in there",
+    "english_meaning": "An expression of encouragement to persist or persevere.",
+    "hindi_phrase": "डटे रहो",
+    "hindi_meaning": "हिम्मत मत हारो, लगे रहो।",
+    "marathi_phrase": "धीर धर",
+    "marathi_meaning": "चिकाटी ठेव, हार मानू नकोस."
+  },
+  {
+    "id": 149,
+    "english_phrase": "In for a penny, in for a pound",
+    "english_meaning": "Committing to something fully, even if it becomes more difficult.",
+    "hindi_phrase": "जब ओखली में सिर दिया तो मूसल से क्या डरना",
+    "hindi_meaning": "किसी काम को शुरू करने के बाद, उसे पूरा करने के लिए प्रतिबद्ध रहना, चाहे वह कितना भी कठिन क्यों न हो।",
+    "marathi_phrase": "सुरुवात केली आहे, तर पूर्ण करणे",
+    "marathi_meaning": "एखादे काम सुरू केल्यावर ते कितीही कठीण असले तरी पूर्ण करणे."
+  },
+  {
+    "id": 150,
+    "english_phrase": "It's not rocket science",
+    "english_meaning": "It's not difficult to understand.",
+    "hindi_phrase": "यह कोई बड़ी बात नहीं है",
+    "hindi_meaning": "यह समझना मुश्किल नहीं है।",
+    "marathi_phrase": "हे इतके अवघड नाही",
+    "marathi_meaning": "हे समजायला अजिबात अवघड नाही."
+  },
+  {
+    "id": 151,
+    "english_phrase": "Keep something at bay",
+    "english_meaning": "To prevent something or someone from coming near.",
+    "hindi_phrase": "किसी चीज़ को दूर रखना",
+    "hindi_meaning": "किसी को या किसी चीज़ को पास आने से रोकना।",
+    "marathi_phrase": "दूर ठेवणे",
+    "marathi_meaning": "एखाद्या गोष्टीला किंवा व्यक्तीला जवळ येण्यापासून रोखणे."
+  },
+  {
+    "id": 152,
+    "english_phrase": "Last but not least",
+    "english_meaning": "The last item in a list, but not the least important.",
+    "hindi_phrase": "अंतिम लेकिन महत्वपूर्ण",
+    "hindi_meaning": "सूची में अंतिम, लेकिन महत्व में कम नहीं।",
+    "marathi_phrase": "शेवटचे पण तितकेच महत्त्वाचे",
+    "marathi_meaning": "यादीत शेवटचे असले तरी महत्त्वाचे."
+  },
+  {
+    "id": 153,
+    "english_phrase": "Like watching paint dry",
+    "english_meaning": "Extremely boring.",
+    "hindi_phrase": "बहुत उबाऊ",
+    "hindi_meaning": "अत्यंत नीरस या उबाऊ।",
+    "marathi_phrase": "अतिशय कंटाळवाणे",
+    "marathi_meaning": "खूप कंटाळवाणे असणे."
+  },
+  {
+    "id": 154,
+    "english_phrase": "Make hay while the sun shines",
+    "english_meaning": "Make the most of an opportunity while it lasts.",
+    "hindi_phrase": "बहती गंगा में हाथ धोना",
+    "hindi_meaning": "अवसर का पूरा लाभ उठाना जब तक वह है।",
+    "marathi_phrase": "संधीचा फायदा घेणे",
+    "marathi_meaning": "संधी उपलब्ध असताना तिचा पुरेपूर फायदा घेणे."
+  },
+  {
+    "id": 155,
+    "english_phrase": "Method in the madness",
+    "english_meaning": "A purpose or order behind seemingly chaotic behavior.",
+    "hindi_phrase": "पागलपन में भी एक तरीका",
+    "hindi_meaning": "अस्त-व्यस्त लगने वाले व्यवहार के पीछे भी कोई उद्देश्य होना।",
+    "marathi_phrase": "वरकरणी गोंधळातही सुसूत्रता असणे",
+    "marathi_meaning": "वरवर गोंधळाचे वाटले तरी त्यात एक विशिष्ट पद्धत असणे."
+  },
+  {
+    "id": 156,
+    "english_phrase": "My hands are tied",
+    "english_meaning": "To be unable to act or help due to rules or lack of power.",
+    "hindi_phrase": "मेरे हाथ बंधे हैं",
+    "hindi_meaning": "नियमों या शक्ति की कमी के कारण कार्य करने में असमर्थ होना।",
+    "marathi_phrase": "माझे हात बांधलेले आहेत",
+    "marathi_meaning": "नियम किंवा अधिकाराअभावी मदत करण्यास असमर्थ असणे."
+  },
+  {
+    "id": 157,
+    "english_phrase": "Not playing with a full deck",
+    "english_meaning": "Not mentally sound; foolish or crazy.",
+    "hindi_phrase": "दिमागी तौर पर कमजोर",
+    "hindi_meaning": "मानसिक रूप से ठीक न होना; मूर्ख या पागल।",
+    "marathi_phrase": "डोक्याने कमी असणे",
+    "marathi_meaning": "मूर्ख किंवा वेडा असणे."
+  },
+  {
+    "id": 158,
+    "english_phrase": "On pins and needles",
+    "english_meaning": "To be very anxious or in suspense.",
+    "hindi_phrase": "बेचैन होना",
+    "hindi_meaning": "बहुत चिंतित या बेचैन होना।",
+    "marathi_phrase": "चिंतेत असणे",
+    "marathi_meaning": "अतिशय चिंताग्रस्त किंवा उत्सुक असणे."
+  },
+  {
+    "id": 159,
+    "english_phrase": "Plain as day",
+    "english_meaning": "Very obvious or easy to see.",
+    "hindi_phrase": "दिन के उजाले की तरह साफ़",
+    "hindi_meaning": "बिल्कुल स्पष्ट।",
+    "marathi_phrase": "दिवसासारखे स्पष्ट",
+    "marathi_meaning": "अगदी उघड, स्पष्ट दिसणारे."
+  },
+  {
+    "id": 160,
+    "english_phrase": "Put a sock in it",
+    "english_meaning": "A rude way to tell someone to be quiet.",
+    "hindi_phrase": "चुप हो जाओ",
+    "hindi_meaning": "किसी को चुप रहने के लिए कहने का एक असभ्य तरीका।",
+    "marathi_phrase": "तोंड बंद ठेव",
+    "marathi_meaning": "एखाद्याला गप्प बसायला सांगणे."
+  },
+  {
+    "id": 161,
+    "english_phrase": "Quick on the uptake",
+    "english_meaning": "Quick to understand or learn something.",
+    "hindi_phrase": "जल्दी समझने वाला",
+    "hindi_meaning": "किसी चीज़ को जल्दी समझने या सीखने वाला।",
+    "marathi_phrase": "चटकन समजणारा",
+    "marathi_meaning": "एखादी गोष्ट पटकन समजून घेणारा."
+  },
+  {
+    "id": 162,
+    "english_phrase": "Ring a bell",
+    "english_meaning": "To sound familiar.",
+    "hindi_phrase": "जाना-पहचाना लगना",
+    "hindi_meaning": "कुछ सुना हुआ या परिचित लगना।",
+    "marathi_phrase": "ओळखीचे वाटणे",
+    "marathi_meaning": "एखादी गोष्ट ऐकल्यासारखी वाटणे."
+  },
+  {
+    "id": 163,
+    "english_phrase": "Rule of thumb",
+    "english_meaning": "A broadly accurate guide or principle, based on practice rather than theory.",
+    "hindi_phrase": "एक मोटा नियम",
+    "hindi_meaning": "एक सामान्य सिद्धांत जो अनुभव पर आधारित हो।",
+    "marathi_phrase": "अंदाजाचा नियम",
+    "marathi_meaning": "व्यावहारिक अनुभवावर आधारित एक सामान्य मार्गदर्शक तत्त्व."
+  },
+  {
+    "id": 164,
+    "english_phrase": "Run circles around someone",
+    "english_meaning": "To be much better or faster at something than someone else.",
+    "hindi_phrase": "किसी से बहुत बेहतर होना",
+    "hindi_meaning": "किसी काम में किसी और से बहुत बेहतर या तेज़ होना।",
+    "marathi_phrase": "एखाद्यापेक्षा खूप वरचढ असणे",
+    "marathi_meaning": "एखाद्यापेक्षा एखाद्या गोष्टीमध्ये खूप हुशार किंवा जलद असणे."
+  },
+  {
+    "id": 165,
+    "english_phrase": "Saved by the bell",
+    "english_meaning": "Saved from a difficult situation at the very last moment.",
+    "hindi_phrase": "ऐन मौके पर बच जाना",
+    "hindi_meaning": "बिल्कुल आखिरी पल में किसी मुश्किल से बच निकलना।",
+    "marathi_phrase": "अगदी शेवटच्या क्षणी वाचणे",
+    "marathi_meaning": "अगदी शेवटच्या क्षणी एखाद्या कठीण परिस्थितीतून सुटणे."
+  },
+  {
+    "id": 166,
+    "english_phrase": "Sick and tired",
+    "english_meaning": "To be extremely annoyed or bored with something.",
+    "hindi_phrase": "पूरी तरह से तंग आ जाना",
+    "hindi_meaning": "किसी चीज़ से बहुत ज़्यादा परेशान या ऊब जाना।",
+    "marathi_phrase": "अगदी कंटाळून जाणे",
+    "marathi_meaning": "एखाद्या गोष्टीला पूर्णपणे वैतागणे."
+  },
+  {
+    "id": 167,
+    "english_phrase": "Sit tight",
+    "english_meaning": "To wait patiently and take no action.",
+    "hindi_phrase": "धैर्य से प्रतीक्षा करना",
+    "hindi_meaning": "धैर्यपूर्वक प्रतीक्षा करना और कोई कार्रवाई न करना।",
+    "marathi_phrase": "धीर धरून वाट पाहणे",
+    "marathi_meaning": "कोणतीही कृती न करता शांतपणे वाट पाहणे."
+  },
+  {
+    "id": 168,
+    "english_phrase": "Sleep on it",
+    "english_meaning": "To delay making a decision until the next day.",
+    "hindi_phrase": "सोच-विचार के लिए समय लेना",
+    "hindi_meaning": "अगले दिन तक निर्णय लेने में देरी करना।",
+    "marathi_phrase": "विचार करण्यासाठी वेळ घेणे",
+    "marathi_meaning": "निर्णय घेण्यापूर्वी एका रात्रीचा विचार करणे."
+  },
+  {
+    "id": 169,
+    "english_phrase": "Spit it out",
+    "english_meaning": "An informal command to say what you are reluctant to say.",
+    "hindi_phrase": "जल्दी बोलो",
+    "hindi_meaning": "जो कहने में झिझक रहे हो, उसे जल्दी से कहो।",
+    "marathi_phrase": "लवकर बोलून टाक",
+    "marathi_meaning": "जे काही सांगायचे आहे ते संकोच न करता सांगणे."
+  },
+  {
+    "id": 170,
+    "english_phrase": "Take a rain check",
+    "english_meaning": "To politely decline an offer, with the hope of accepting it later.",
+    "hindi_phrase": "फिर कभी के लिए टालना",
+    "hindi_meaning": "किसी प्रस्ताव को विनम्रतापूर्वक अस्वीकार करना, इस उम्मीद के साथ कि बाद में स्वीकार कर लेंगे।",
+    "marathi_phrase": "नंतर कधीतरी",
+    "marathi_meaning": "एखादी ऑफर नम्रपणे नाकारणे, पण नंतर स्वीकारण्याची आशा ठेवणे."
+  },
+  {
+    "id": 171,
+    "english_phrase": "Take it easy",
+    "english_meaning": "To relax and not worry.",
+    "hindi_phrase": "आराम से",
+    "hindi_meaning": "आराम करना और चिंता न करना।",
+    "marathi_phrase": "शांत रहा",
+    "marathi_meaning": "आराम करणे आणि काळजी न करणे."
+  },
+  {
+    "id": 172,
+    "english_phrase": "The writing is on the wall",
+    "english_meaning": "Clear signs that something bad is going to happen.",
+    "hindi_phrase": "साफ़ संकेत मिलना",
+    "hindi_meaning": "कुछ बुरा होने के स्पष्ट संकेत।",
+    "marathi_phrase": "वाईट घडण्याचे स्पष्ट संकेत मिळणे",
+    "marathi_meaning": "काहीतरी वाईट घडणार असल्याची स्पष्ट चिन्हे दिसणे."
+  },
+  {
+    "id": 173,
+    "english_phrase": "Think outside the box",
+    "english_meaning": "To think creatively and unconventionally.",
+    "hindi_phrase": "कुछ अलग सोचना",
+    "hindi_meaning": "रचनात्मक और पारंपरिक सोच से हटकर सोचना।",
+    "marathi_phrase": "चौकटीबाहेरचा विचार करणे",
+    "marathi_meaning": "सगळ्यांपेक्षा वेगळा आणि नाविन्यपूर्ण विचार करणे."
+  },
+  {
+    "id": 174,
+    "english_phrase": "Through thick and thin",
+    "english_meaning": "In all circumstances, no matter how difficult.",
+    "hindi_phrase": "हर हाल में",
+    "hindi_meaning": "हर परिस्थिति में, चाहे कितनी भी कठिन क्यों न हो।",
+    "marathi_phrase": "प्रत्येक परिस्थितीत",
+    "marathi_meaning": "चांगल्या-वाईट अशा सर्व परिस्थितीत."
+  },
+  {
+    "id": 175,
+    "english_phrase": "Tip of the iceberg",
+    "english_meaning": "Only a small, visible part of a much larger problem.",
+    "hindi_phrase": "समस्या का एक छोटा सा हिस्सा",
+    "hindi_meaning": "एक बहुत बड़ी समस्या का केवल एक छोटा सा, दिखाई देने वाला हिस्सा।",
+    "marathi_phrase": "समस्येचा एक छोटासा भाग",
+    "marathi_meaning": "एका मोठ्या समस्येचा फक्त वरवर दिसणारा लहान भाग."
+  },
+  {
+    "id": 176,
+    "english_phrase": "To get cold feet",
+    "english_meaning": "To suddenly become too nervous or frightened to do something.",
+    "hindi_phrase": "हिम्मत हार जाना",
+    "hindi_meaning": "किसी काम को करने से ठीक पहले घबरा जाना।",
+    "marathi_phrase": "घाबरून जाणे",
+    "marathi_meaning": "एखादे काम करण्यापूर्वी अचानक घाबरणे."
+  },
+  {
+    "id": 177,
+    "english_phrase": "To be in hot water",
+    "english_meaning": "To be in trouble or disgrace.",
+    "hindi_phrase": "मुसीबत में पड़ना",
+    "hindi_meaning": "किसी मुश्किल या परेशानी में होना।",
+    "marathi_phrase": "संकटात असणे",
+    "marathi_meaning": "मोठ्या संकटात किंवा अडचणीत असणे."
+  },
+  {
+    "id": 178,
+    "english_phrase": "To be on the back burner",
+    "english_meaning": "To be given low priority; postponed.",
+    "hindi_phrase": "ठंडे बस्ते में डालना",
+    "hindi_meaning": "किसी चीज़ को कम प्राथमिकता देना; स्थगित कर देना।",
+    "marathi_phrase": "मागे ठेवणे",
+    "marathi_meaning": "एखाद्या गोष्टीला कमी प्राधान्य देणे; पुढे ढकलणे."
+  },
+  {
+    "id": 179,
+    "english_phrase": "To call a spade a spade",
+    "english_meaning": "To speak directly and truthfully, even about unpleasant things.",
+    "hindi_phrase": "साफ-साफ कहना",
+    "hindi_meaning": "अप्रिय बातों को भी सीधे और सच्चाई से बोलना।",
+    "marathi_phrase": "स्पष्ट बोलणे",
+    "marathi_meaning": "वाईट गोष्टींबद्दलही थेट आणि खरे बोलणे."
+  },
+  {
+    "id": 180,
+    "english_phrase": "To change one's tune",
+    "english_meaning": "To change one's opinion or attitude.",
+    "hindi_phrase": "अपना रुख बदलना",
+    "hindi_meaning": "अपनी राय या रवैया बदलना।",
+    "marathi_phrase": "भूमिका बदलणे",
+    "marathi_meaning": "आपले मत किंवा वृत्ती बदलणे."
+  },
+  {
+    "id": 181,
+    "english_phrase": "To chew the fat",
+    "english_meaning": "To chat in a friendly, leisurely way.",
+    "hindi_phrase": "गपशप करना",
+    "hindi_meaning": "आराम से बैठकर बातें करना।",
+    "marathi_phrase": "गप्पा मारणे",
+    "marathi_meaning": "निवांतपणे मैत्रीपूर्ण गप्पा मारणे."
+  },
+  {
+    "id": 182,
+    "english_phrase": "To cut to the chase",
+    "english_meaning": "To get to the main point without wasting time.",
+    "hindi_phrase": "सीधे मुद्दे पर आना",
+    "hindi_meaning": "बिना समय बर्बाद किए मुख्य बात पर आना।",
+    "marathi_phrase": "थेट मुद्द्यावर येणे",
+    "marathi_meaning": "वेळ न घालवता सरळ मुख्य विषयावर येणे."
+  },
+  {
+    "id": 183,
+    "english_phrase": "To draw a blank",
+    "english_meaning": "To fail to remember something.",
+    "hindi_phrase": "कुछ याद न आना",
+    "hindi_meaning": "कुछ भी याद करने में असफल होना।",
+    "marathi_phrase": "काहीही न आठवणे",
+    "marathi_meaning": "एखादी गोष्ट आठवण्यात अपयशी ठरणे."
+  },
+  {
+    "id": 184,
+    "english_phrase": "To eat humble pie",
+    "english_meaning": "To admit one's error and apologize.",
+    "hindi_phrase": "अपनी गलती मानना",
+    "hindi_meaning": "अपनी गलती स्वीकार करना और माफी माँगना।",
+    "marathi_phrase": "आपली चूक मान्य करणे",
+    "marathi_meaning": "आपली चूक कबूल करून माफी मागणे."
+  },
+  {
+    "id": 185,
+    "english_phrase": "To fly off the handle",
+    "english_meaning": "To lose one's temper suddenly and unexpectedly.",
+    "hindi_phrase": "आपे से बाहर हो जाना",
+    "hindi_meaning": "अचानक आपा खो देना।",
+    "marathi_phrase": "अचानक भडकणे",
+    "marathi_meaning": "अचानकपणे रागावणे."
+  },
+  {
+    "id": 186,
+    "english_phrase": "To get a second wind",
+    "english_meaning": "To have a new burst of energy after feeling tired.",
+    "hindi_phrase": "नई ऊर्जा मिलना",
+    "hindi_meaning": "थकावट महसूस करने के बाद नई ऊर्जा का संचार होना।",
+    "marathi_phrase": "नवीन उत्साह मिळणे",
+    "marathi_meaning": "थकल्यानंतर पुन्हा नवीन ऊर्जा मिळणे."
+  },
+  {
+    "id": 187,
+    "english_phrase": "To go for broke",
+    "english_meaning": "To risk everything in one all-out attempt.",
+    "hindi_phrase": "सब कुछ दांव पर लगाना",
+    "hindi_meaning": "एक ही प्रयास में अपना सब कुछ जोखिम में डाल देना।",
+    "marathi_phrase": "सर्वस्व पणाला लावणे",
+    "marathi_meaning": "एकाच प्रयत्नात सर्व काही धोक्यात घालणे."
+  },
+  {
+    "id": 188,
+    "english_phrase": "To have sticky fingers",
+    "english_meaning": "To be a thief; to have a tendency to steal.",
+    "hindi_phrase": "चोरी करने की आदत होना",
+    "hindi_meaning": "चोर होना; चोरी करने की प्रवृत्ति होना।",
+    "marathi_phrase": "चोरी करण्याची सवय असणे",
+    "marathi_meaning": "चोर असणे."
+  },
+  {
+    "id": 189,
+    "english_phrase": "To jump the gun",
+    "english_meaning": "To do something too soon, before the proper time.",
+    "hindi_phrase": "जल्दबाजी करना",
+    "hindi_meaning": "सही समय से पहले ही कुछ कर देना।",
+    "marathi_phrase": "उतावळेपणा करणे",
+    "marathi_meaning": "योग्य वेळेपूर्वीच घाईने एखादे काम करणे."
+  },
+  {
+    "id": 190,
+    "english_phrase": "To keep one's chin up",
+    "english_meaning": "To remain cheerful in difficult circumstances.",
+    "hindi_phrase": "हिम्मत बनाए रखना",
+    "hindi_meaning": "कठिन परिस्थितियों में भी खुश रहना।",
+    "marathi_phrase": "धीर राखणे",
+    "marathi_meaning": "कठीण परिस्थितीतही आनंदी राहणे."
+  },
+  {
+    "id": 191,
+    "english_phrase": "To lose one's touch",
+    "english_meaning": "To no longer be as skilled at something as one used to be.",
+    "hindi_phrase": "पहले जैसी बात न रहना",
+    "hindi_meaning": "किसी काम में पहले जैसा कुशल न रहना।",
+    "marathi_phrase": "पूर्वीसारखे कौशल्य न राहणे",
+    "marathi_meaning": "एखाद्या कामात पूर्वीइतके कुशल न राहणे."
+  },
+  {
+    "id": 192,
+    "english_phrase": "To make ends meet",
+    "english_meaning": "To earn just enough money to live on.",
+    "hindi_phrase": "गुज़ारा करना",
+    "hindi_meaning": "जीने के लिए बस पर्याप्त पैसा कमाना।",
+    "marathi_phrase": "गुजराण करणे",
+    "marathi_meaning": "फक्त जगण्यापुरते पैसे कमावणे."
+  },
+  {
+    "id": 193,
+    "english_phrase": "To paint the town red",
+    "english_meaning": "To go out and have a very lively and exciting time.",
+    "hindi_phrase": "धूम मचाना",
+    "hindi_meaning": "बाहर जाकर खूब मौज-मस्ती करना।",
+    "marathi_phrase": "धूमधडाक्यात मजा करणे",
+    "marathi_meaning": "बाहेर जाऊन खूप धमाल करणे."
+  },
+  {
+    "id": 194,
+    "english_phrase": "To play it by ear",
+    "english_meaning": "To decide how to deal with a situation as it develops, rather than planning ahead.",
+    "hindi_phrase": "परिस्थिति के अनुसार काम करना",
+    "hindi_meaning": "योजना बनाने के बजाय, स्थिति के अनुसार निर्णय लेना।",
+    "marathi_phrase": "परिस्थितीनुसार निर्णय घेणे",
+    "marathi_meaning": "आधीच नियोजन न करता, परिस्थिती जशी येईल तसे वागणे."
+  },
+  {
+    "id": 195,
+    "english_phrase": "To pull a fast one",
+    "english_meaning": "To deceive or trick someone.",
+    "hindi_phrase": "किसी को धोखा देना",
+    "hindi_meaning": "किसी को धोखा देना या ठगना।",
+    "marathi_phrase": "फसवणूक करणे",
+    "marathi_meaning": "एखाद्याला फसवणे."
+  },
+  {
+    "id": 196,
+    "english_phrase": "To skate on thin ice",
+    "english_meaning": "To be in a risky situation.",
+    "hindi_phrase": "खतरे से खेलना",
+    "hindi_meaning": "जोखिम भरी स्थिति में होना।",
+    "marathi_phrase": "धोक्याच्या परिस्थितीत असणे",
+    "marathi_meaning": "अतिशय नाजूक किंवा धोक्याच्या परिस्थितीत असणे."
+  },
+  {
+    "id": 197,
+    "english_phrase": "Variety is the spice of life",
+    "english_meaning": "New and exciting experiences make life more interesting.",
+    "hindi_phrase": "विविधता जीवन का मसाला है",
+    "hindi_meaning": "नए और रोमांचक अनुभव जीवन को अधिक रोचक बनाते हैं।",
+    "marathi_phrase": "विविधता हीच जीवनाची गंमत आहे",
+    "marathi_meaning": "नवीन आणि रोमांचक अनुभव आयुष्य अधिक मनोरंजक बनवतात."
+  },
+  {
+    "id": 198,
+    "english_phrase": "Once bitten, twice shy",
+    "english_meaning": "Being cautious after a bad experience.",
+    "hindi_phrase": "दूध का जला छाछ भी फूंक-फूंक कर पीता है",
+    "hindi_meaning": "एक बार धोखा खाने के बाद इंसान बहुत सावधान हो जाता है।",
+    "marathi_phrase": "दुधाने तोंड पोळल्यावर ताक फुंकून पिणे",
+    "marathi_meaning": "एका वाईट अनुभवानंतर खूप सावधगिरी बाळगणे."
+  },
+  {
+    "id": 199,
+    "english_phrase": "Let the chips fall where they may",
+    "english_meaning": "To let something happen, no matter what the consequences are.",
+    "hindi_phrase": "जो होगा देखा जाएगा",
+    "hindi_meaning": "परिणाम की चिंता किए बिना किसी काम को होने देना।",
+    "marathi_phrase": "जे होईल ते पाहू",
+    "marathi_meaning": "परिणामांची चिंता न करता एखादी गोष्ट घडू देणे."
+  },
+  {
+    "id": 200,
+    "english_phrase": "To have a chip on one's shoulder",
+    "english_meaning": "To have an angry or resentful attitude about something, often from the past.",
+    "hindi_phrase": "मन में गांठ रखना",
+    "hindi_meaning": "किसी पुरानी बात को लेकर नाराज़ या असंतुष्ट रहना।",
+    "marathi_phrase": "मनात राग ठेवणे",
+    "marathi_meaning": "भूतकाळातील एखाद्या गोष्टीबद्दल रागावलेले किंवा असमाधानी असणे."
   }
 ]
